@@ -6,10 +6,17 @@
 
 body {
   padding-top: 54px;
+  background:orange;
 }
 
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
+    background:lightgreen;
   }
+}
+
+.pagination {
+  margin-bottom: 40px; 
+  background:green;
 }
